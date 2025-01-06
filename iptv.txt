@@ -19,13 +19,9 @@ cctv13,http://tvin.chengkai.vip/gaoma/cctv13.m3u8
 cctv14,http://tvin.chengkai.vip/gaoma/cctv14.m3u8
 cctv15,http://tvin.chengkai.vip/gaoma/cctv15.m3u8
 cctv16,http://tvin.chengkai.vip/gaoma/cctv16.m3u8
-cctv16,http://tvin.chengkai.vip/iptv/1000000006000233002.m3u8?cdn=ystenlive
-cctv16,http://tvin.chengkai.vip/iptv/5000000008000023254.m3u8?cdn=bestzb
 cctv16,http://tvin.chengkai.vip/gaoma/cctv4k16_10m.m3u8
 cctv16,http://tvin.chengkai.vip/gaoma/cctv4k16.m3u8
 cctv17,http://tvin.chengkai.vip/gaoma/cctv17.m3u8
-cctv17,http://tvin.chengkai.vip/iptv/1000000006000268004.m3u8?cdn=ystenlive
-cctv17,http://tvin.chengkai.vip/iptv/1000000005000265015.m3u8?cdn=ystenlive
 cgtn,http://tvin.chengkai.vip/iptv/7745129417417101820.m3u8?cdn=hnbblive
 CGTN记录,http://tvin.chengkai.vip/iptv/7114647837765104058.m3u8?cdn=hnbblive
 CGTNALBY,http://tvin.chengkai.vip/gaoma/cgtnar.m3u8
